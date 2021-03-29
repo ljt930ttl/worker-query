@@ -1,0 +1,11 @@
+{
+  "custom_worker_day": [],
+  "custom_rest_day": [],
+  "extra_names": ["邱志基", "闵和矗", "易尊忠"],
+  "client": {
+    "api_reqworktime": "http://10.7.3.32:9002/reqworktimelong",
+    "api_webhook" : "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=75296043-f005-45ea-8a9b-c4b07b87aba5",
+    "api_holiday": "http://timor.tech/api/holiday/info/"
+  },
+  "names_map" : { "林进庭":"linjinting", "闵和矗":"minhechu", "邱志基":"qiuzhiji", "马景松":"majingsong", "易尊忠":"yizunzhong"}
+}
